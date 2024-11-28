@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabhjyott
 - 👀 I’m interested in coding, backend frontend work.
-- 🌱 I’m currently learning python, C#, java, web development, machine learning.
+- 🌱 I’m currently learning python, C#, java, web development, machine learning, artificial intelligence, flutter, node js.
 - 💞️ I’m looking to collaborate on peojects
 - 📫 How to reach me: www.linkedin.com/in/prabhjyot-kaur-63786b250
 - 😄 Pronouns: She/her
